@@ -1,0 +1,2 @@
+FRUITS=["carrots" , "cabbage" , "spinach" ]
+
